@@ -1,6 +1,3 @@
-Here’s a professional `README.md` for your **OCD Medication Prediction & Clustering Project**, suitable for GitHub:
-
----
 
 # 🧠 OCD Treatment Prediction and Clustering using Machine Learning
 
